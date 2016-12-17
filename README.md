@@ -1,2 +1,2 @@
 # pink-utils
-Java utilities and function
+A small but growing collection of my nice-to-have java utils i tend to want to include in projects I work on. Perhaps someone else might find them useful as well...
