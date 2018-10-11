@@ -1,4 +1,4 @@
-package se.cultofpink.pinkutils;
+package se.cultofpink.pinkUtils;
 
 import java.util.function.Supplier;
 
