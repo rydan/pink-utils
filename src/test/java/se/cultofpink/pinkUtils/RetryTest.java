@@ -1,4 +1,4 @@
-package se.cultofpink.pinkutils;
+package se.cultofpink.pinkUtils;
 
 import org.junit.jupiter.api.Test;
 
