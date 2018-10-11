@@ -1,4 +1,4 @@
-package opix.util;
+package se.cultofpink.pinkutils;
 
 import java.util.function.Supplier;
 
