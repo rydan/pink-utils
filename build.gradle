@@ -4,7 +4,7 @@ version '1.0-SNAPSHOT'
 apply plugin: 'java'
 apply plugin: 'maven-publish'
 
-sourceCompatibility = 1.8
+sourceCompatibility = 1.17
 
 repositories {
     mavenCentral()
@@ -15,7 +15,7 @@ test {
 }
 
 dependencies {
-    implementation 'com.fasterxml.jackson.core:jackson-databind:2.10.0'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.4'
 
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.9.0'
